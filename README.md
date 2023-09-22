@@ -1,5 +1,6 @@
-![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFX
+# Aplicación DMI_Practica07_180247
 
+![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
 ## Información General
 
 - **Creado por:** Lesly Yareth Hernandez Bonilla
